@@ -13,9 +13,7 @@ const Card = ({ data }) => {
           </div>
         );
       })}
-      <div>
-        <h3> Muharrem gem</h3>
-      </div>
+    
     </div>
   );
 };
