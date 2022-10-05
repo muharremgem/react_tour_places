@@ -38,7 +38,15 @@
     }
     &:hover .desc {
       max-height: 500px;
-
+      bottom: 5px;
+      transition: max-height 3s;
+      color: white;
     }
+  }
+}
+
+@media (max-width: 992px) {
+  .container {
+    grid-template-columns: auto auto;
   }
 }
