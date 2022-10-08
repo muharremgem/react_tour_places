@@ -10,7 +10,6 @@ const Navbar = () => {
       <div>BLOG</div>
       <div>VLOG</div>
       <div>CONTACT</div>
-      <div>hamburger koy</div>
     </nav>
   );
 };
